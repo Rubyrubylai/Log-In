@@ -1,6 +1,6 @@
 # Log In
 
-![image]](https://github.com/Rubyrubylai/Log-In/blob/master/Login.PNG)
+![image](https://github.com/Rubyrubylai/Log-In/blob/master/Login.PNG)
 
 ## Installation
 **Prerequisties**
